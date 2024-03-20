@@ -7,7 +7,7 @@
 # What is Turbofan Engine ?
 The turbofan was invented to improve the fuel consumption of the turbojet. It achieves this by pushing more air, thus increasing the mass and lowering the speed of the propelling jet compared to that of the turbojet.
 # Problem Statement of Predictive Maintenance
-task is to determine whether a Machine Learning model could be used to perform Predictive Maintenance on turbofan engines. For the purposes of this tutorial, we will assume that the following information has been ascertained through consultation with the company operating the turbofans:
+The task is to determine whether a Machine Learning model could be used to perform Predictive Maintenance on turbofan engines. For the purposes of this tutorial, we will assume that the following information has been ascertained through consultation with the company operating the turbofans:
 1] The maintenance schedule of the turbofans is flexible. There would be no use carrying out this analysis if the schedule cannot be changed.
 2] The analysis would generate long-term value for the operating company.
 Given that the above points are true, the problem now lies in the analysis. We will use sensor data to predict the Remaining Useful Life (RUL) of turbofan engines. This RUL prediction can then be used to facilitate predictive maintenance.
